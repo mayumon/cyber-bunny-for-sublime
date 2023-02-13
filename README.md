@@ -17,18 +17,18 @@ $\textcolor{bubblegum}{♡ \ colour \ palette}$
 
 $\textcolor{bubblegum}{♡ \ screenshot \ preview}$
 
-##### Language - C
+##### ✧ Language - C
 <p style="text-align: center;">
   <img width="700" alt="cyber bunny in C" src="https://user-images.githubusercontent.com/113377248/218400655-9e5aa799-6389-4f4b-8438-c606a7f54f37.png">
 </p>
 
-##### Language - Java
+##### ✧ Language - Java
 
 <p style="text-align: center;">
   <img width="700" alt="cyber bunny in Java" src="https://user-images.githubusercontent.com/113377248/218400741-0e4214a9-4631-4768-b357-c2e63619dd0d.png">
 </p>
 
-##### Language - Python
+##### ✧ Language - Python
 
 <p style="text-align: center;">
   <img width="700" alt="cyber bunny in Python" src="https://user-images.githubusercontent.com/113377248/218403124-fc9124ac-bea7-4953-a62a-89a38758b143.png">
