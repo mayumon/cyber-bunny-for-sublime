@@ -1,4 +1,5 @@
-![cyber bunny sublime text color scheme](https://user-images.githubusercontent.com/113377248/218393725-74bcc89d-b730-4f6c-ac81-41f86e563311.png)
+
+![cyber bunny sublime text color scheme](https://user-images.githubusercontent.com/113377248/218394164-5743a9fc-e6b9-4023-85c4-80770f2bc115.png)
 Cyber Bunny ♡ Dark Color Scheme for Sublime Text
 
 Cute and dark color scheme for sublime text.
