@@ -1,6 +1,6 @@
-# cyber bunny ♡ dark color scheme for sublime text
+# Cyber Bunny ♡ Dark Color Scheme for Sublime Text
 
-cute and dark color scheme for sublime text.
+Cute and dark color scheme for sublime text.
 
 color palette 
 // add color palette
