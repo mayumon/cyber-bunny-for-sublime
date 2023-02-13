@@ -1,9 +1,9 @@
 {
-  "name": "cyberbunny",
+    "name": "cyberbunny",
 	"author": "mayumon",
 	"variables":
 	{
-		"black": "rgb(0, 0, 0)",
+	"black": "rgb(0, 0, 0)",
         "white": "rgb(255, 255, 255)",
 
         "offwhite": "rgb(241, 241, 241)",
@@ -20,7 +20,7 @@
         "rose": "rgb(224, 128, 140)",
 
         "lavender": "rgb(174, 147, 191)",
-        "darkpurple": "rgb(47, 37, 47f)",
+        "darkpurple": "rgb(47, 37, 47)",
 
         "icyblue": "rgb(201, 243, 255)",
         "icyblue2": "rgb(167, 195, 224)",
