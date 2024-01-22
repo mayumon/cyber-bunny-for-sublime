@@ -1,5 +1,3 @@
-$\definecolor{bubblegum}{rgb}{0.99, 0.76, 0.8}$
-
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/113377248/218394597-63fb7d35-1de4-451e-8d84-a8ca441c54a0.png" alt="cyber bunny sublime text colour scheme">
 </p>
@@ -15,7 +13,7 @@ $\definecolor{bubblegum}{rgb}{0.99, 0.76, 0.8}$
 
 <br/><br/>
 
-$$\textcolor{bubblegum}{♡ \ colour \ palette}$$
+$$\textcolor{#DE7EA4}{♡ \ colour \ palette}$$
 
 <p align="center">
   <img width="50%" alt="cyber bunny colour palette" src="https://user-images.githubusercontent.com/113377248/218411157-287c234c-0e06-4107-ac8a-912063aebf4c.png">
@@ -27,7 +25,7 @@ $$\textcolor{bubblegum}{♡ \ colour \ palette}$$
 
 <br/><br/>
 
-$$\textcolor{bubblegum}{♡ \ screenshot \ preview}$$
+$$\textcolor{#DE7EA4}{♡ \ screenshot \ preview}$$
 
 ##### ✧ Language - C 
 <p align="center">
